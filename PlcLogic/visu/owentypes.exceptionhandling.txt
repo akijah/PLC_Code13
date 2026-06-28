@@ -1,0 +1,6 @@
+Id;Default;en;ru
+0;CatchInCodesys;Catch in CODESYS;Отлавливается CODESYS
+1;Reboot;Reboot;Перезагрузка
+2;TraceInfo;Show info on display;Отобразить на экране
+3;TraceInfoAndReboot;Show info on display and reboot;Отобразить на экране и перезагрузить
+;;;

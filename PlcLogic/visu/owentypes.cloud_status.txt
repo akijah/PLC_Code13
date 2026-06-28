@@ -1,0 +1,6 @@
+Id;Default;en;ru
+0;CONNECT;Connect;Установка соединения
+1;COMM_OK;Communication;Передача данных
+2;COMM_ERROR;Communication error;Ошибка связи
+3;NO_COMM;Disable communication;Связь с OwenCloud отключена
+;;;
